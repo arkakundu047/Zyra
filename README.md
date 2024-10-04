@@ -1,0 +1,1 @@
+This virtual assistant project, named Zyra, uses speech recognition and synthesis to interact with users, allowing voice commands such as greetings, time queries, and opening web services like several websites. It provides a user-friendly interface with dynamic responses and fallback to Google search for unrecognized commands.
